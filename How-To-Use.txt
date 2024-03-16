@@ -1,0 +1,5 @@
+Run pip install -r requirements.txt
+
+wait for it to load
+
+run pyhton Iputility.py
