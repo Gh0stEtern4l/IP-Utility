@@ -11,4 +11,8 @@ basicly just a simple tool to erase and renew an IP
 
 
 
-https://cdn.discordapp.com/attachments/1211724384012869643/1218755835929563146/5939aa45-b7dd-45e0-abd3-aad4cd117ca9.mp4?ex=6608d1d2&is=65f65cd2&hm=c64b25d830fa2759bb36f089aa1948fb64dcce0a78c87583fdd50f645c2c310c&
+
+https://github.com/Gh0stEtern4l/IP-Utility/assets/161924938/6407be62-a189-4ea3-abb4-b2096a458ffa
+
+
+
